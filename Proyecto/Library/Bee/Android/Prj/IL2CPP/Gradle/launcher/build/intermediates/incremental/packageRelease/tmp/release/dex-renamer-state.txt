@@ -1,0 +1,4 @@
+#Mon Jun 06 15:13:04 PDT 2022
+base.0=C\:\\Programas\\C\#\\Interaccion humano-computadora\\IHCProyecto\\Proyecto\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
